@@ -30,16 +30,16 @@
     <img src="https://img.shields.io/badge/DjangoPackages-django--totp-8c3c26?style=for-the-badge" alt="Django Packages">
 </a>
 
-<a href="https://github.com/packagesphere/django-totp">
-    <img src="https://img.shields.io/github/stars/packagesphere/django-totp?style=for-the-badge&logo=github" alt="GitHub Stars">
+<a href="https://github.com/QcialDotCom/django-totp">
+    <img src="https://img.shields.io/github/stars/QcialDotCom/django-totp?style=for-the-badge&logo=github" alt="GitHub Stars">
 </a>
 
-<a href="https://github.com/packagesphere/django-totp/issues">
-    <img src="https://img.shields.io/github/issues/packagesphere/django-totp?style=for-the-badge&logo=github" alt="GitHub Issues">
+<a href="https://github.com/QcialDotCom/django-totp/issues">
+    <img src="https://img.shields.io/github/issues/QcialDotCom/django-totp?style=for-the-badge&logo=github" alt="GitHub Issues">
 </a>
 
-<a href="https://github.com/packagesphere/django-totp/commits/main">
-    <img src="https://img.shields.io/github/last-commit/packagesphere/django-totp?style=for-the-badge&logo=github" alt="Last Commit">
+<a href="https://github.com/QcialDotCom/django-totp/commits/main">
+    <img src="https://img.shields.io/github/last-commit/QcialDotCom/django-totp?style=for-the-badge&logo=github" alt="Last Commit">
 </a>
 
 <a href="https://docs.astral.sh/ruff/">
@@ -650,11 +650,11 @@ Available at: [django-totp-helper.pages.dev](https://django-totp-helper.pages.de
 
 Contributions are welcome. Please open an issue for bugs or feature requests, and submit pull requests for improvements.
 
-## Maintainers
+## Maintainer
 
-- Kumar Sahil
-  - GitHub: [@krsahil8825](https://github.com/krsahil8825)
-  - Email: [contact@krsahil.co.in](mailto:contact@krsahil.co.in)
+- Qcial Labs
+  - GitHub: [@QcialDotCom](https://github.com/QcialDotCom)
+  - Email: [contact@qcial.com](mailto:contact@qcial.com)
 
 ## License
 
